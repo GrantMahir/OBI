@@ -1,2 +1,2 @@
-# OBI
+# oldenburg-inventory
 Burnout
